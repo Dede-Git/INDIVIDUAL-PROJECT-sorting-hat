@@ -1,0 +1,80 @@
+body {
+  background-color: tan;
+}
+
+.card-category {
+  margin-left: 75px;
+}
+
+.card-Welcome {
+  text-align: center;
+}
+
+.card-title {
+  text-align: center;
+  font-size: x-large;
+  background-color: navy;
+  color: tan;
+}
+
+.card-body {
+  text-align: center;
+  font-size: larger;
+  background-color: maroon;
+  color: gold;
+}
+
+
+
+.card {
+  text-align: center;
+  text-align: left;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.btn-Rave {
+  background-color: navy;
+  color: tan;
+}
+
+.btn-Gry {
+  background-color: maroon;
+  color: gold;
+}
+
+.btn-Huff {
+  background-color: gold;
+  color: maroon;
+}
+
+.btn-Sly {
+  background-color: green;
+  color: darkgrey;
+}
+
+.btn-All {
+  background-color: black;
+  color: azure;
+}
+
+#student-text {
+  font-size: xx-large;
+  margin-left: 55px;
+  margin-top: 200px;
+}
+
+#expelled-text {
+  font-size: xx-large;
+  margin-left: 1000px;
+}
+
+.Teams {
+  text-align: center;
+}
+
+.all-cards {
+display: flex;
+justify-content: space-around;
+
+}
